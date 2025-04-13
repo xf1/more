@@ -1,5 +1,5 @@
 {
-    "version": "20250323",
+    "version": "20250412",
     "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
     "homepage": "https://mpv.io",
     "license": "LGPL-2.1-or-later,GPL-2.0-or-later",
