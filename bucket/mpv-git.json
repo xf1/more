@@ -12,8 +12,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zhongfly/mpv-winbuild/releases/download/2025-03-25-b31c3d8/mpv-x86_64-v3-20250325-git-b31c3d8.7z",
-            "hash": "sha1:15836bc30382e4d96b2ee05b151d04312aaa8bfa"
+            "url": "https://github.com/zhongfly/mpv-winbuild/releases/download/2025-04-12-8c28e24/mpv-x86_64-v3-20250412-git-8c28e24.7z",
+            "hash": "sha256:d21bab1901b146145b91eff69a4c826c1addb5a1e7fb6b8803b13a154071063f"
         }
     },
     "pre_install": "Remove-Item \"$dir\\updater.bat\"",
